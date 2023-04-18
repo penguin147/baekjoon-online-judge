@@ -16,7 +16,7 @@
 첫째 줄에 정답을 출력한다.
 */
 
-//1+2-4+5+4-2
+
 string input;
 string[] num = new string[50];
 int[] info = new int[2];
