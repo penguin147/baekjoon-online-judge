@@ -20,7 +20,7 @@ string[] num = input.Split(' ');
 
 for(int i = 0; i < num.Length; i++)
 {
-    if (!num[i].Contains('-')  num[i] != "0")
+    if (!num[i].Contains('-') && num[i] != "0")
     {
         cnt++;
     }
